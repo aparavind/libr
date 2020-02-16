@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">test002</string>
+    <string name="zqsavid">ID</string>
+    <string name="zqsavnm">Name</string>
+    <string name="zqsavct">Content Type</string>
+    <string name="zqsavbt">Book Type</string>
+    <string name="zqsav0o">Owner</string>
+    <string name="zqsavtl">This is the Insert Book Form</string>
+    <string name="zqsahid">ID of the book(int)</string>
+    <string name="zqsahnm">Name of Book (String)</string>
+    <string name="zqsahct">Content Type (String)</string>
+    <string name="zqsahbt">Book Type (String)</string>
+    <string name="zqsah0o">Owner(String)</string>
+    <string name="zqsmv0i">Insert a Book</string>
+    <string name="zqsmv0a">Audit a shelf</string>
+    <string name="zqsmv0s">Search a Book</string>
+    <string name="zqsavac">Insert into DB</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
